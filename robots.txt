@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /contact.html
-Disallow: /form.html
+Allow: /
 
 Sitemap: https://aptechaishar.github.io/Aptech-E-project-Bakerzbite/sitemap.xml
